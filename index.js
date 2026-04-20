@@ -1,7 +1,7 @@
 const config = {
-  herName: "安琪",
-  titleSymbol: "❀",
-  tagline: "从遇见你开始，星辰都变得温柔",
+  herName: "siniak",
+  titleSymbol: "💕",
+  tagline: "全世界最好的辅助٩(•̤̀ᵕ•̤́๑)",
   carouselInterval: 2000,
   theme: {
     primary: "#f3a6c4",
@@ -12,49 +12,39 @@ const config = {
   },
   photos: [
     {
-      src: "./image/sun.jpg",
-      caption: "第一次一起看的日落",
+      src: "https://s41.ax1x.com/2026/04/20/pecHjyt.jpg",
+      caption: "第一次一起玩游戏",
       story: "那天的晚风很温柔，你说晚霞把我染成了粉红色，我知道那是喜欢。"
     },
     {
-      src: "./image/game.jpg",
+      src: "https://s41.ax1x.com/2026/04/20/pecHXQI.jpg",
       caption: "笑声定格的瞬间",
       story: "我们在峡谷里厮杀，你总是让我先选英雄，你说你相信我的实力。"
     },
-    {
-      src: "./image/cut.jpg",
-      caption: "把你守护在怀里",
-      story: "我发誓以后要给你所有的温暖和安全感。"
-    }
   ],
   timeline: [
     {
-      date: "2019-05-20",
+      date: "2026-04-15",
       label: "第一次认识你",
       icon: "🌅"
     },
     {
-      date: "2019-06-18",
+      date: "2026-04-18",
       label: "一起谈天说地",
       icon: "💬"
     },
     {
-      date: "20225-10-09",
-      label: "第一次和你一起玩铲铲游戏",
+      date: "2026-04-19",
+      label: "和你一起征战峡谷",
       icon: "🎮"
     },
-    {
-      date: "20225-11-11",
-      label: "最浪漫的夜晚",
-      icon: "🌙"
-    }
   ],
   letters: [
     `提笔想写点什么给你，却发现千言万语都不足以表达我的心意。`,
     `💕我们在不同风景，相同时光里。`,
-    `我总是想把我看到的，一切美好的东西都当做礼物送给你`
+    `我总是想带你征战峡谷，带你飞跃星辰大海`
   ],
-  signature: "Mr.Wang"
+  signature: "--旁觀者"
 };
 
 const state = {
